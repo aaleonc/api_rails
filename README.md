@@ -1,2 +1,13 @@
 # api_rails
-Api desarrollada en Rails 5 con Ruby 2.7.4 y MySQL 8
+Api base desarrollada en Rails
+
+# Ruby version
+2.7.4
+
+# Rails version
+5.0.7.2
+
+# PostgreSQL version
+12.9
+
+
