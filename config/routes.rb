@@ -12,6 +12,11 @@ Rails.application.routes.draw do
           post 'login'
         end
       end
+      resources :readings do
+        collection do
+          get 'read_pokemon'
+        end
+      end
     end
   end
 end
